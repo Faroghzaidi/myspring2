@@ -8,6 +8,6 @@ public class BasicController {
 
 	@GetMapping("/zaidi")
 	public String getData() {
-		return "Welcome To SpringAPP Demo App";
+		return "Welcome To SpringBoot Demo App";
 	}
 }
